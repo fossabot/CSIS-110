@@ -1,5 +1,3 @@
-# Sound Collage
-
 # Nishant Srivastava
 # 2/13/18
 # The code below completes the task of homework number four which is to bring five sounds together and change them up so it's a collage.
@@ -57,6 +55,7 @@ def soundCollage():
   copy (s2, canvas, 207357 + getLength(s1))
    
   #Three alterations and insertions ...
+  
   alterationNumber1 = makeSound (getMediaPath("GucciGang.wav")) # Fuzzy sounding version.
   sampleValueMax(alterationNumber1)   
   copy (alterationNumber1, canvas, getLength(s1) + getLength(s2) + (getLength(s1) + getLength(s2) * 3/10))
@@ -64,8 +63,11 @@ def soundCollage():
   alterationNumber2 = makeSound (getMediaPath("GucciGang.wav")) # Louder version of the sound.
   increaseVolume(alterationNumber2)
   copy (alterationNumber2, canvas, getLength(s1) + getLength(s2) + getLength(alterationNumber1) + (getLength(alterationNumber1) + getLength(s1) + getLength(s2) * 3/10))
-  showInformation("The wait time between the second to last and the last sound is a bit longer than the previous wait times simply because of the function's code.  Sorry >:(!!")
+ 
   alterationNumber3 = makeSound (getMediaPath("Enemies.wav")) # Increase or decrease every sample by a different random amount until the sound is just barely recognizable  [you said this was fine].
   increaseVolumeOverTime(alterationNumber3)
   copy (alterationNumber3, canvas, getLength(s1) + getLength(s2) + getLength(alterationNumber1) + getLength(alterationNumber2) + (getLength(s1) + getLength(s2) + getLength(alterationNumber1) + getLength(alterationNumber2) * 3/10))
+ 
+  printNow("The sampling rate of this soundCollage is 48000 hz!  There are" + str(getSamples(alterationNumber3)) + "samples in the final sound.  The final sound is" + str(getLength(alterationNumber3)/48000) + "seconds long!") # For some odd reason, the code lags here.
+  
   play(canvas)

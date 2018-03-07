@@ -68,6 +68,9 @@ def soundCollage():
   increaseVolumeOverTime(alterationNumber3)
   copy (alterationNumber3, canvas, getLength(s1) + getLength(s2) + getLength(alterationNumber1) + getLength(alterationNumber2) + (getLength(s1) + getLength(s2) + getLength(alterationNumber1) + getLength(alterationNumber2) * 3/10))
  
-  printNow("The sampling rate of this soundCollage is 48000 hz!  There are" + str(getSamples(alterationNumber3)) + "samples in the final sound.  The final sound is" + str(getLength(alterationNumber3)/48000) + "seconds long!") # For some odd reason, the code lags here.
+   x = str(getLength(alterationNumber3))
+  xx = str(getLength(canvas)/48000)
+  print("The sampling rate of this soundCollage is 48000 hz!  There are " + x  + " samples in the final sound.  The sound in total is " + xx + " seconds long!") # For some odd reason, the code lags here.
+  showInformation("I hope you enjoy!")
   
   play(canvas)

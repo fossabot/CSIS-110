@@ -1,0 +1,1865 @@
+<file_created time="Fri May 04 16:03:33 GMT-05:00 2018">
+<menu_button time="Fri May 04 16:09:44 GMT-05:00 2018">Load Program</menu_button>
+<file_saved time="Fri May 04 16:10:58 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<command_run time="Fri May 04 16:11:04 GMT-05:00 2018">setMediaPath()></command_run>
+<menu_button time="Fri May 04 16:11:37 GMT-05:00 2018">makePicture</menu_button>
+<menu_button time="Fri May 04 16:11:41 GMT-05:00 2018">Program Area + Interactions Area</menu_button>
+<menu_button time="Fri May 04 16:12:14 GMT-05:00 2018">Load Program</menu_button>
+<file_saved time="Fri May 04 16:12:15 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+<file_opened time="Fri May 04 16:13:04 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_opened>
+<menu_button time="Fri May 04 16:15:03 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:15:03 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:15:04 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 16:15:16 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:15:16 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:15:17 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 16:15:22 GMT-05:00 2018">setMediaPath()></command_run>
+<menu_button time="Fri May 04 16:15:48 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 16:15:48 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 16:15:48 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 16:15:54 GMT-05:00 2018">setMediaPath()></command_run>
+<command_run time="Fri May 04 16:16:04 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Fri May 04 16:16:11 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:16:11 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:33:31 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 16:33:39 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:33:39 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:42:20 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:42:20 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:42:20 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 16:43:45 GMT-05:00 2018">x = setMediaPath()></command_run>
+<command_run time="Fri May 04 16:43:49 GMT-05:00 2018">x></command_run>
+<command_run time="Fri May 04 16:43:55 GMT-05:00 2018">makeRectMovie(x)></command_run>
+<command_run time="Fri May 04 16:44:08 GMT-05:00 2018">play(x)></command_run>
+<menu_button time="Fri May 04 16:45:09 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 16:45:12 GMT-05:00 2018">x></command_run>
+<command_run time="Fri May 04 16:45:14 GMT-05:00 2018">a></command_run>
+<menu_button time="Fri May 04 16:45:16 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 16:45:16 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 16:45:16 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 16:45:17 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 16:45:17 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 16:45:18 GMT-05:00 2018">x></command_run>
+<command_run time="Fri May 04 16:45:36 GMT-05:00 2018">rectM = makeRectMovie(x)></command_run>
+<command_run time="Fri May 04 16:45:53 GMT-05:00 2018">playMovie(rectM)></command_run>
+<menu_button time="Fri May 04 16:46:53 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:46:53 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:47:01 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:47:01 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:47:52 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:47:52 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:48:16 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:48:16 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:53:06 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:53:07 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:54:05 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:54:05 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:54:18 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:54:18 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:55:04 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:55:04 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:56:37 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:56:37 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:56:48 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:56:48 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:56:53 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:56:53 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:56:54 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 16:56:54 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 16:56:54 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 16:56:57 GMT-05:00 2018">x></command_run>
+<command_run time="Fri May 04 16:57:04 GMT-05:00 2018">firstScene(x)></command_run>
+<command_run time="Fri May 04 16:58:56 GMT-05:00 2018">firstScene)(></command_run>
+<command_run time="Fri May 04 16:59:01 GMT-05:00 2018">firstScene()></command_run>
+<menu_button time="Fri May 04 16:59:07 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 16:59:07 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 16:59:07 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 16:59:07 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 16:59:07 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 16:59:17 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 16:59:26 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:59:26 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:59:26 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:59:26 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:59:26 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:59:26 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 16:59:27 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 16:59:29 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 16:59:52 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 16:59:52 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 17:00:41 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 17:00:41 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 17:00:43 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 17:00:44 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 17:00:53 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Fri May 04 17:01:08 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 17:01:09 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 17:03:36 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 17:03:36 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 17:03:43 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 17:03:43 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 17:11:00 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 17:11:00 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 17:11:09 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 17:11:09 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 17:12:05 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 17:12:05 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 17:12:06 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 17:13:08 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 17:13:08 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 17:13:11 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 17:13:11 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 17:26:19 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 17:26:19 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 17:26:27 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 17:26:28 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 17:26:29 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 17:26:29 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:17:42 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:17:42 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:17:43 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 18:22:14 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:22:14 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:22:16 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 18:22:19 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 18:33:42 GMT-05:00 2018">copyInto</menu_button>
+<menu_button time="Fri May 04 18:33:49 GMT-05:00 2018">Program Area + Interactions Area</menu_button>
+<menu_button time="Fri May 04 18:33:53 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:33:53 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:33:54 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 18:33:59 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 18:34:13 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 18:34:26 GMT-05:00 2018">duplicatePicture</menu_button>
+<menu_button time="Fri May 04 18:34:31 GMT-05:00 2018">Program Area + Interactions Area</menu_button>
+<menu_button time="Fri May 04 18:34:37 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:34:51 GMT-05:00 2018">copyInto</menu_button>
+<menu_button time="Fri May 04 18:35:06 GMT-05:00 2018">Program Area + Interactions Area</menu_button>
+<menu_button time="Fri May 04 18:35:07 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:35:07 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:35:08 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 18:35:09 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 18:35:23 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:35:23 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:35:26 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 18:35:28 GMT-05:00 2018">firstScene(x)></command_run>
+<command_run time="Fri May 04 18:35:30 GMT-05:00 2018">x></command_run>
+<menu_button time="Fri May 04 18:37:25 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 18:37:26 GMT-05:00 2018">x></command_run>
+<command_run time="Fri May 04 18:37:28 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 18:37:43 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 18:37:43 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 18:38:49 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:38:49 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:39:02 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 18:39:03 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 18:39:55 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:39:56 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:40:11 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 18:40:12 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 18:41:05 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:41:05 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:41:19 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 18:41:19 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 18:41:20 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 18:42:49 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:49 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:49 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:49 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:50 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:50 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:50 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:50 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:50 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:51 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:51 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:52 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:52 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:52 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:52 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:53 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:53 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:53 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:54 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:54 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:54 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:54 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:55 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:55 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:55 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:55 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:55 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:56 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:56 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:42:56 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Fri May 04 18:43:02 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:43:02 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:43:04 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 18:43:08 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 18:44:17 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:44:17 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:46:56 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:46:56 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:50:23 GMT-05:00 2018">addArcFilled</menu_button>
+<menu_button time="Fri May 04 18:51:30 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:51:30 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:51:30 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 18:51:34 GMT-05:00 2018">Load Program</menu_button>
+<file_saved time="Fri May 04 18:51:34 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<command_run time="Fri May 04 18:51:38 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Fri May 04 18:52:43 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:52:43 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:52:46 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 18:52:50 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 18:53:07 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Fri May 04 18:53:27 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:53:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:53:31 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:53:31 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:53:31 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 18:53:32 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Fri May 04 18:53:41 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Fri May 04 18:53:51 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Fri May 04 18:53:55 GMT-05:00 2018">Program Area + Interactions Area</menu_button>
+<menu_button time="Fri May 04 18:54:16 GMT-05:00 2018">makeColor</menu_button>
+<menu_button time="Fri May 04 18:54:21 GMT-05:00 2018">Program Area + Interactions Area</menu_button>
+<menu_button time="Fri May 04 18:54:32 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:54:32 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:54:35 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:54:35 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:54:43 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:54:43 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:54:46 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:54:46 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:54:50 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:54:50 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:55:04 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:55:04 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<command_run time="Fri May 04 18:55:10 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Fri May 04 18:55:50 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:55:50 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:55:55 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Fri May 04 18:55:55 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Fri May 04 18:55:56 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Fri May 04 18:56:00 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sat May 05 10:29:26 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sat May 05 10:32:05 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sat May 05 10:32:05 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sat May 05 10:35:37 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sat May 05 10:35:37 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sat May 05 10:37:23 GMT-05:00 2018">addArcFilled</menu_button>
+<menu_button time="Sat May 05 10:37:34 GMT-05:00 2018">Load Program</menu_button>
+<file_saved time="Sat May 05 10:37:35 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<command_run time="Sat May 05 10:37:39 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Sat May 05 10:38:14 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sat May 05 10:38:14 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sat May 05 10:38:15 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sat May 05 10:38:17 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sat May 05 10:38:28 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sat May 05 10:39:14 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sat May 05 10:39:14 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sat May 05 10:39:19 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sat May 05 10:39:19 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sat May 05 10:39:25 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sat May 05 10:39:25 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sat May 05 10:39:26 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sat May 05 10:39:41 GMT-05:00 2018">firstScene(x)a></command_run>
+<command_run time="Sat May 05 10:39:43 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sat May 05 10:39:53 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sat May 05 12:44:20 GMT-05:00 2018">Program Area + Interactions Area</menu_button>
+<menu_button time="Sat May 05 13:29:37 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sat May 05 13:29:37 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sat May 05 17:52:33 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sat May 05 17:52:33 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+<file_opened time="Sun May 06 14:21:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_opened>
+<menu_button time="Sun May 06 14:21:31 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:21:31 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:21:32 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 14:21:38 GMT-05:00 2018">setMediaPath()></command_run>
+<menu_button time="Sun May 06 14:21:48 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 14:21:48 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 14:21:48 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 14:21:57 GMT-05:00 2018">firstScene(x)></command_run>
+<command_run time="Sun May 06 14:22:04 GMT-05:00 2018">x = setMediaPath()></command_run>
+<command_run time="Sun May 06 14:22:08 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 14:22:18 GMT-05:00 2018">Stop</menu_button>
+<command_run time="Sun May 06 14:22:53 GMT-05:00 2018">explore(birdPicture)></command_run>
+<menu_button time="Sun May 06 14:22:59 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:22:59 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:23:03 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:23:03 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:23:04 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 14:23:06 GMT-05:00 2018">explore(birdPicture)></command_run>
+<menu_button time="Sun May 06 14:40:10 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:40:10 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:40:12 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 14:40:15 GMT-05:00 2018">play(oceanSound)></command_run>
+<menu_button time="Sun May 06 14:45:52 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:45:52 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:46:05 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:08 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:46:08 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:46:13 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:13 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:13 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:14 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:14 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:14 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:15 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:15 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:15 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:15 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:16 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:16 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:16 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:17 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:17 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:17 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:17 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:18 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:18 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:46:27 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:46:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<command_run time="Sun May 06 14:46:50 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Sun May 06 14:47:11 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:47:11 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:47:12 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 14:47:15 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 14:47:25 GMT-05:00 2018">Stop</menu_button>
+<command_run time="Sun May 06 14:47:39 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Sun May 06 14:48:03 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:48:03 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:48:03 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 14:48:06 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 14:48:18 GMT-05:00 2018">Stop</menu_button>
+<command_run time="Sun May 06 14:48:31 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Sun May 06 14:48:41 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:48:41 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:48:41 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 14:48:42 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 14:48:52 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sun May 06 14:48:57 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:48:57 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:49:07 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 14:49:09 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 14:49:14 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sun May 06 14:49:20 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:49:20 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:49:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:49:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:49:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Sun May 06 14:49:27 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:49:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:49:28 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 14:49:38 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 14:49:46 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sun May 06 14:49:56 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:49:56 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:49:56 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 14:50:05 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 14:50:12 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sun May 06 14:50:17 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 14:50:17 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 14:50:18 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 14:50:28 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 14:50:28 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 14:50:39 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sun May 06 14:50:47 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 14:50:47 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 16:14:08 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 16:14:14 GMT-05:00 2018">play(oceanSound)></command_run>
+<menu_button time="Sun May 06 16:14:41 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 16:14:41 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 16:14:46 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 16:14:46 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 16:14:56 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 16:15:04 GMT-05:00 2018">x></command_run>
+<command_run time="Sun May 06 16:15:09 GMT-05:00 2018">y = firstScene(x)></command_run>
+<command_run time="Sun May 06 16:16:02 GMT-05:00 2018">playMovie(s)></command_run>
+<command_run time="Sun May 06 16:16:08 GMT-05:00 2018">playMovie(y)></command_run>
+<menu_button time="Sun May 06 16:16:09 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 16:16:10 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 16:16:10 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 18:32:27 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 18:32:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<command_run time="Sun May 06 18:45:08 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Sun May 06 18:46:30 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 18:46:30 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 18:46:36 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 18:46:36 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 18:46:37 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 18:46:40 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 18:46:46 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 18:47:13 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 18:47:13 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 18:47:27 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 18:47:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 18:47:28 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 18:47:29 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:04:18 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:04:18 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:04:18 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:04:20 GMT-05:00 2018">firstScene(x)></command_run>
+<command_run time="Sun May 06 19:04:21 GMT-05:00 2018">></command_run>
+<menu_button time="Sun May 06 19:04:44 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:04:44 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:04:45 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:04:46 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:04:52 GMT-05:00 2018">Load Program</menu_button>
+<file_saved time="Sun May 06 19:04:52 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<command_run time="Sun May 06 19:04:53 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:05:03 GMT-05:00 2018">Load Program</menu_button>
+<file_saved time="Sun May 06 19:05:04 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<command_run time="Sun May 06 19:05:05 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:05:27 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:05:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:05:28 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:05:28 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:05:39 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sun May 06 19:08:56 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:08:56 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:08:57 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:09:01 GMT-05:00 2018">explore(blueWhale)></command_run>
+<menu_button time="Sun May 06 19:09:16 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:09:16 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:09:16 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:09:18 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:10:01 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:10:02 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:10:12 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:10:12 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:10:15 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:10:15 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:10:15 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:10:16 GMT-05:00 2018">firstScene(x)></command_run>
+<command_run time="Sun May 06 19:10:25 GMT-05:00 2018">explore(canvas)></command_run>
+<command_run time="Sun May 06 19:10:29 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Sun May 06 19:10:54 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:10:54 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:10:55 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 19:11:10 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:11:12 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:11:21 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sun May 06 19:12:06 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 19:12:08 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 19:12:20 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:12:21 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:12:34 GMT-05:00 2018">Stop</menu_button>
+<command_run time="Sun May 06 19:12:48 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Sun May 06 19:14:46 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:14:46 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:14:46 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:14:48 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:14:58 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:14:58 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:14:59 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:15:00 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:16:15 GMT-05:00 2018">Load Program</menu_button>
+<file_saved time="Sun May 06 19:16:15 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:16:33 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:16:34 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:16:41 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:16:41 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:16:42 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:16:43 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:16:52 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:16:52 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:16:53 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:16:54 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:17:01 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:17:01 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:17:02 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:17:03 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:17:04 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sun May 06 19:17:13 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:17:13 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:17:15 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 19:17:21 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:17:22 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:17:47 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:17:47 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:17:51 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 19:18:03 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:18:04 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:18:26 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sun May 06 19:18:35 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:18:35 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:18:35 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 19:18:38 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:18:38 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:18:39 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 19:19:00 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:19:01 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:19:22 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sun May 06 19:19:28 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:19:28 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:19:29 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:19:40 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:28:03 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 19:28:19 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:28:19 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:28:20 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:28:35 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:29:25 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:29:25 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:29:45 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:29:45 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:29:48 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:29:49 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:30:57 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:30:57 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:30:57 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:30:57 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:30:58 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:30:58 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:30:58 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:30:58 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:30:58 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 19:31:39 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:31:40 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:32:33 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:32:33 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:40:19 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:40:19 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:40:25 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:40:25 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:52:20 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:52:25 GMT-05:00 2018">explore(monkeyPicture)></command_run>
+<menu_button time="Sun May 06 19:53:01 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:53:01 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:53:01 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:53:01 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:53:01 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:53:01 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:53:01 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:53:01 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:53:02 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:53:04 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:53:12 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sun May 06 19:53:39 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:53:39 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:53:46 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:53:46 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:53:50 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:53:50 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 19:53:51 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 19:53:52 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 19:54:05 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Sun May 06 19:54:55 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 19:54:56 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 20:03:55 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 20:03:55 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 20:11:19 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 20:11:19 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 20:24:35 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 20:24:35 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<command_run time="Sun May 06 20:24:53 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Sun May 06 20:25:43 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 20:25:43 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 20:25:56 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 20:25:56 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 20:25:58 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 20:26:00 GMT-05:00 2018">firstScene(x)></command_run>
+<command_run time="Sun May 06 20:26:25 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Sun May 06 20:26:39 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 20:26:39 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 20:26:40 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 20:26:41 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 20:27:01 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 20:27:03 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 20:27:14 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 20:27:14 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 20:27:16 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 20:27:17 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 20:27:20 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 20:27:20 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 20:27:20 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 20:27:21 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 20:27:55 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 20:27:59 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Sun May 06 20:28:20 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 20:28:20 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 20:28:21 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 20:28:39 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 20:28:52 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Sun May 06 20:28:54 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Sun May 06 20:51:23 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 20:51:23 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 21:03:05 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 21:03:05 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 21:03:29 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 21:03:29 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Sun May 06 21:03:31 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Sun May 06 21:03:41 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Sun May 06 21:03:41 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+<file_opened time="Mon May 07 16:55:07 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_opened>
+<menu_button time="Mon May 07 16:55:09 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Mon May 07 16:55:27 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 16:55:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 16:55:27 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 16:55:45 GMT-05:00 2018">x = setMediaPath()></command_run>
+<command_run time="Mon May 07 16:55:54 GMT-05:00 2018">x = setMediaPath()></command_run>
+<command_run time="Mon May 07 16:56:01 GMT-05:00 2018">x></command_run>
+<menu_button time="Mon May 07 16:56:02 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 16:56:02 GMT-05:00 2018">x></command_run>
+<command_run time="Mon May 07 16:56:10 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Mon May 07 16:56:48 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 16:56:48 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 16:57:16 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 16:57:16 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 16:57:19 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 16:57:19 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 16:57:27 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Mon May 07 16:57:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Mon May 07 16:57:37 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 16:57:37 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 16:57:38 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 16:57:39 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Mon May 07 16:58:47 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 16:58:47 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 16:58:52 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 16:58:52 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 16:59:03 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 16:59:03 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 16:59:27 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 16:59:28 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Mon May 07 17:01:18 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Mon May 07 17:01:19 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 17:01:20 GMT-05:00 2018">firstScene(x)></command_run>
+<command_run time="Mon May 07 17:08:09 GMT-05:00 2018">getWidth(background)></command_run>
+<command_run time="Mon May 07 17:08:15 GMT-05:00 2018">getHeight(background)></command_run>
+<menu_button time="Mon May 07 17:12:04 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 17:12:04 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 17:12:07 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 17:12:07 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+<file_opened time="Mon May 07 18:36:40 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_opened>
+<menu_button time="Mon May 07 18:36:41 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Mon May 07 18:37:43 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 18:37:48 GMT-05:00 2018">x = setMediaPath()></command_run>
+<command_run time="Mon May 07 18:37:51 GMT-05:00 2018">x></command_run>
+<command_run time="Mon May 07 18:37:56 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Mon May 07 18:39:37 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:39:37 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:41:10 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:41:10 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:41:13 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:41:13 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:41:16 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:41:16 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:41:19 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:41:19 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:43:53 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:43:53 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:43:53 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:43:53 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:43:53 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:43:53 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:43:53 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 18:43:59 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Mon May 07 18:45:19 GMT-05:00 2018">Explain</menu_button>
+<menu_button time="Mon May 07 18:46:02 GMT-05:00 2018">Program Area + Interactions Area</menu_button>
+<menu_button time="Mon May 07 18:47:37 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:47:37 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:48:10 GMT-05:00 2018">Explain</menu_button>
+<menu_button time="Mon May 07 18:48:12 GMT-05:00 2018">Program Area + Interactions Area</menu_button>
+<menu_button time="Mon May 07 18:48:17 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:48:17 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:48:27 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:48:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:53:47 GMT-05:00 2018">addTextWithStyle</menu_button>
+<menu_button time="Mon May 07 18:54:25 GMT-05:00 2018">Explain</menu_button>
+<menu_button time="Mon May 07 18:54:37 GMT-05:00 2018">Explain</menu_button>
+<menu_button time="Mon May 07 18:54:58 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:54:58 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:55:56 GMT-05:00 2018">Explain</menu_button>
+<menu_button time="Mon May 07 18:56:01 GMT-05:00 2018">Explain</menu_button>
+<menu_button time="Mon May 07 18:56:16 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:56:16 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:56:21 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:56:21 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:56:24 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:56:24 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:57:05 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:57:05 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:57:11 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:57:11 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:57:37 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:57:37 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:57:43 GMT-05:00 2018">Explain</menu_button>
+<menu_button time="Mon May 07 18:57:48 GMT-05:00 2018">Explain</menu_button>
+<menu_button time="Mon May 07 18:58:01 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:58:01 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:58:03 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:58:03 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:58:47 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Mon May 07 18:58:53 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 18:58:54 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Mon May 07 18:59:16 GMT-05:00 2018">Explain</menu_button>
+<menu_button time="Mon May 07 18:59:20 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:59:20 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:59:21 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 18:59:21 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Mon May 07 18:59:27 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:59:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:59:28 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 18:59:31 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Mon May 07 18:59:33 GMT-05:00 2018">Explain</menu_button>
+<menu_button time="Mon May 07 18:59:45 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:59:45 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:59:48 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:59:48 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 18:59:54 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 18:59:54 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 19:00:08 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 19:00:08 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 19:00:12 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 19:00:12 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 19:00:19 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 19:00:19 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 19:00:21 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 19:00:22 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Mon May 07 19:00:38 GMT-05:00 2018">Load Program</menu_button>
+<file_saved time="Mon May 07 19:00:38 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 19:00:54 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 19:00:55 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Mon May 07 19:00:59 GMT-05:00 2018">Explain</menu_button>
+<menu_button time="Mon May 07 19:01:06 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Mon May 07 19:01:10 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 19:01:10 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 19:01:12 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 19:01:12 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Mon May 07 19:01:20 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 19:01:20 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 19:01:21 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 19:01:22 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Mon May 07 19:01:49 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Mon May 07 19:01:50 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 19:01:51 GMT-05:00 2018">firstScene(x)></command_run>
+<menu_button time="Mon May 07 19:01:57 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 19:01:57 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 19:02:01 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Mon May 07 19:02:01 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Mon May 07 19:02:01 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Mon May 07 19:02:02 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Mon May 07 19:02:04 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Mon May 07 19:02:06 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Mon May 07 19:02:08 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 19:02:08 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 19:02:10 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 19:02:10 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 19:02:13 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 19:02:13 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 19:02:14 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 19:02:15 GMT-05:00 2018">firstScene(x)></command_run>
+<command_run time="Mon May 07 19:03:45 GMT-05:00 2018">play(x)></command_run>
+<menu_button time="Mon May 07 19:03:50 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Mon May 07 19:04:06 GMT-05:00 2018">play(firstScene(x))></command_run>
+<menu_button time="Mon May 07 19:04:09 GMT-05:00 2018">Stop</menu_button>
+<command_run time="Mon May 07 19:04:18 GMT-05:00 2018">playMovie(firstScene(x))></command_run>
+<menu_button time="Mon May 07 19:05:14 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 19:05:14 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 19:26:50 GMT-05:00 2018">Program Area + Interactions Area</menu_button>
+<menu_button time="Mon May 07 19:29:08 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 19:29:08 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Mon May 07 21:08:43 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Mon May 07 21:08:43 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+<file_opened time="Tue May 08 17:06:48 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_opened>
+<menu_button time="Tue May 08 17:06:50 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:07:14 GMT-05:00 2018">x = setMediaPath()></command_run>
+<command_run time="Tue May 08 17:07:16 GMT-05:00 2018">x></command_run>
+<command_run time="Tue May 08 17:07:27 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:07:51 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:07:51 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:07:52 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:07:54 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:08:04 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:08:04 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:08:05 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:08:07 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:08:43 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:08:43 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:08:46 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:08:46 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:09:13 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:09:13 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:09:15 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:09:17 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:09:42 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:09:42 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:09:43 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:09:45 GMT-05:00 2018">m = firstScene(x)></command_run>
+<command_run time="Tue May 08 17:10:29 GMT-05:00 2018">playMovie(m)></command_run>
+<menu_button time="Tue May 08 17:10:48 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Tue May 08 17:10:48 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Tue May 08 17:10:49 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:10:51 GMT-05:00 2018">m></command_run>
+<command_run time="Tue May 08 17:10:54 GMT-05:00 2018">playMovie(m)></command_run>
+<command_run time="Tue May 08 17:10:57 GMT-05:00 2018">play(m)></command_run>
+<command_run time="Tue May 08 17:10:59 GMT-05:00 2018">x></command_run>
+<command_run time="Tue May 08 17:11:00 GMT-05:00 2018">m></command_run>
+<command_run time="Tue May 08 17:11:40 GMT-05:00 2018">explore(canvas)></command_run>
+<command_run time="Tue May 08 17:11:44 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Tue May 08 17:12:17 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:12:17 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:12:44 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:12:44 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:12:45 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:12:45 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:12:56 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:12:56 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:13:06 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:13:06 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:13:40 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:13:40 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:13:44 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:13:44 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:13:44 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:13:44 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:13:44 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:13:44 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:13:45 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:13:50 GMT-05:00 2018">m = firstScene(x)></command_run>
+<command_run time="Tue May 08 17:14:19 GMT-05:00 2018">playMovie(m)></command_run>
+<command_run time="Tue May 08 17:14:19 GMT-05:00 2018">></command_run>
+<command_run time="Tue May 08 17:14:19 GMT-05:00 2018">></command_run>
+<menu_button time="Tue May 08 17:16:02 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:16:02 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:16:03 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:16:05 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:16:48 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:16:48 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:16:49 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:16:49 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:16:49 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:16:50 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:17:19 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:17:19 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:17:20 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Tue May 08 17:17:46 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:17:47 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:18:15 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:18:15 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:18:15 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:18:16 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:18:42 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:18:42 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:18:43 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:18:44 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:21:23 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:21:23 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:21:33 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:21:33 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:21:37 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:21:39 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:22:39 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:22:39 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:22:43 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:22:43 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:22:43 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:22:43 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:22:44 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:22:45 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:23:22 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:23:22 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:23:26 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:23:26 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:23:28 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:23:28 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:23:32 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:23:32 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:23:32 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:23:32 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:23:32 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:23:32 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:23:33 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:23:34 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:24:03 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:24:03 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:24:07 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Tue May 08 17:24:20 GMT-05:00 2018">Load Program</menu_button>
+<file_saved time="Tue May 08 17:24:21 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<command_run time="Tue May 08 17:24:22 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:24:55 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:24:55 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:25:36 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:25:36 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:25:42 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:25:42 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:25:43 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:25:44 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:26:26 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:26:26 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:26:27 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:26:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:26:28 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:26:28 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:26:30 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Tue May 08 17:26:41 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:26:41 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:26:46 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:26:48 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:27:54 GMT-05:00 2018">Load Program</menu_button>
+<file_saved time="Tue May 08 17:27:55 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<command_run time="Tue May 08 17:27:55 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:28:39 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:28:39 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:28:58 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:28:59 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:29:29 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:29:29 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:29:36 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:29:36 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:29:45 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:29:45 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:29:45 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:29:47 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:30:23 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:30:23 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:30:24 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:30:25 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:30:35 GMT-05:00 2018">Stop</menu_button>
+<menu_button time="Tue May 08 17:30:40 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:30:40 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:30:41 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:30:42 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:33:25 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:33:25 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:33:58 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:33:58 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:34:41 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:34:41 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:34:46 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:34:47 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:34:59 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:34:59 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:35:00 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:35:01 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:35:23 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:23 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:24 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:24 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:24 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:24 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:24 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:24 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:27 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:27 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:27 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:29 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:30 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:31 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:31 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:31 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:32 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:33 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:33 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:33 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:34 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:34 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:34 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:35:35 GMT-05:00 2018">Redo</menu_button>
+<menu_button time="Tue May 08 17:35:36 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:35:36 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:35:55 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:35:55 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:36:00 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:36:00 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:36:02 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:36:03 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:36:40 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:36:40 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:36:41 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Tue May 08 17:36:47 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:36:47 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:37:06 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:37:06 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:37:20 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:37:21 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:37:45 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:37:45 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:37:47 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:37:47 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:37:49 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Tue May 08 17:37:55 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:37:55 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:37:55 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:37:56 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:38:23 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:38:23 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:38:25 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:38:25 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:39:20 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:39:20 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:39:24 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:39:24 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:39:25 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:39:25 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:40:09 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:40:09 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:40:09 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:40:10 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:42:16 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:42:16 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:42:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:42:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:42:49 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:42:49 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:42:52 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:42:52 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:42:54 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:42:54 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:42:56 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Tue May 08 17:43:01 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:43:01 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:43:02 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:43:04 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:44:07 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:44:07 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:47:48 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:47:48 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:47:59 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:47:59 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:48:02 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:48:02 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:48:04 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:48:06 GMT-05:00 2018">></command_run>
+<command_run time="Tue May 08 17:48:08 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:49:10 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:49:10 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:49:10 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:49:11 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:52:15 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:52:16 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:52:16 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:52:16 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:52:16 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:52:17 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:53:21 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:53:21 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:53:22 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:53:23 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:54:04 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:54:08 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 17:54:17 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:54:17 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:54:25 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:54:26 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:54:27 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:54:27 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 17:56:34 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 17:56:34 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 17:56:35 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 17:56:35 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 18:09:26 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 18:09:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 18:10:10 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 18:10:10 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 18:10:32 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 18:10:32 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 18:10:46 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 18:10:46 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 18:11:04 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 18:11:04 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 18:11:04 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 18:11:06 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 18:18:00 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 18:18:00 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 18:34:37 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:37 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:38 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:38 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:38 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:39 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:39 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:39 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:40 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:40 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:41 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:41 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:41 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:42 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:43 GMT-05:00 2018">Redo</menu_button>
+<menu_button time="Tue May 08 18:34:45 GMT-05:00 2018">Redo</menu_button>
+<menu_button time="Tue May 08 18:34:45 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Tue May 08 18:34:46 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 18:34:46 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 18:34:48 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 18:34:48 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 18:34:49 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 18:34:51 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 18:35:46 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 18:35:46 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 08 18:35:46 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 08 18:39:26 GMT-05:00 2018">m = firstScene(x)></command_run>
+<menu_button time="Tue May 08 21:07:58 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 08 21:07:58 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+<file_opened time="Tue May 15 16:52:29 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_opened>
+<menu_button time="Tue May 15 16:52:40 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 15 16:52:40 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Tue May 15 16:52:43 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 15 16:52:46 GMT-05:00 2018">d></command_run>
+<command_run time="Tue May 15 16:52:55 GMT-05:00 2018">d = setMediaPath()></command_run>
+<command_run time="Tue May 15 16:52:57 GMT-05:00 2018">d></command_run>
+<menu_button time="Tue May 15 16:52:59 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Tue May 15 16:52:59 GMT-05:00 2018">d></command_run>
+<command_run time="Tue May 15 16:53:06 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Tue May 15 16:56:40 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Tue May 15 16:56:40 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+<file_opened time="Thu May 17 19:59:02 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_opened>
+<menu_button time="Thu May 17 19:59:03 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 19:59:03 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 19:59:08 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 19:59:08 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 19:59:12 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 19:59:12 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 19:59:15 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 19:59:15 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 19:59:28 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 19:59:28 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 19:59:49 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 19:59:49 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:00:23 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:00:23 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:00:27 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:00:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:00:29 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:00:29 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:01:57 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:01:57 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:01:58 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Thu May 17 20:02:03 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:02:03 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:02:04 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:02:08 GMT-05:00 2018">explore(background)></command_run>
+<command_run time="Thu May 17 20:02:18 GMT-05:00 2018">setMediaPath()></command_run>
+<command_run time="Thu May 17 20:02:29 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Thu May 17 20:02:32 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:02:32 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:02:38 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:02:38 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:02:40 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:02:42 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Thu May 17 20:03:16 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:03:16 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:03:26 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:03:26 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:03:28 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:03:28 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:03:43 GMT-05:00 2018">addArcFilled</menu_button>
+<command_run time="Thu May 17 20:03:53 GMT-05:00 2018">explore(background)></command_run>
+<menu_button time="Thu May 17 20:04:13 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:04:13 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:04:32 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:04:32 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:05:00 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:05:00 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:05:21 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:05:21 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:05:38 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:05:38 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:05:46 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:05:46 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:06:15 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:06:15 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:06:52 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:06:52 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:07:14 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:07:14 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:07:20 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:07:20 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:07:24 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:07:24 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:07:29 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:07:29 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:07:47 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:07:47 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:07:56 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:07:56 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:07:57 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:07:57 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:07:58 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:08:03 GMT-05:00 2018">d = setMediaPath()></command_run>
+<command_run time="Thu May 17 20:08:12 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:10:03 GMT-05:00 2018">addRectFilled</menu_button>
+<menu_button time="Thu May 17 20:10:35 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:10:35 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:11:00 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:11:02 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:12:53 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:12:53 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:12:56 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:12:56 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:13:09 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:13:09 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:13:16 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:13:16 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:13:22 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:13:22 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:13:26 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:13:26 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:13:30 GMT-05:00 2018">Explain</menu_button>
+<menu_button time="Thu May 17 20:13:39 GMT-05:00 2018">Explain</menu_button>
+<command_run time="Thu May 17 20:13:58 GMT-05:00 2018">getWidth(canvas)></command_run>
+<command_run time="Thu May 17 20:14:04 GMT-05:00 2018">getWidth(background)></command_run>
+<menu_button time="Thu May 17 20:14:26 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:14:26 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<command_run time="Thu May 17 20:14:33 GMT-05:00 2018">getHeight(background)></command_run>
+<command_run time="Thu May 17 20:14:38 GMT-05:00 2018">getWidth(background)/2></command_run>
+<command_run time="Thu May 17 20:14:43 GMT-05:00 2018">getHeight(background)/2></command_run>
+<menu_button time="Thu May 17 20:14:46 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:14:46 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:15:17 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:15:17 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:15:23 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:15:27 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:15:45 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:15:45 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:15:50 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:15:50 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:15:53 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:15:53 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:15:54 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:15:55 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:16:13 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:16:13 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:16:22 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:16:22 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:16:26 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:16:27 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:16:41 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:16:42 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:16:42 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:16:43 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:17:04 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:17:04 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:17:05 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:17:06 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:17:20 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:17:20 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:17:21 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:17:22 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:17:32 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:17:32 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:17:32 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:17:34 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:17:44 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:17:44 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:17:45 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:17:45 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:17:45 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:17:46 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:18:01 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:18:01 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:18:56 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:18:56 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:19:36 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:19:36 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:19:47 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:19:47 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:19:57 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:19:57 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:20:00 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:20:00 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:20:02 GMT-05:00 2018">Load Program</menu_button>
+<menu_button time="Thu May 17 20:20:05 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:20:05 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:20:06 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:20:07 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:20:33 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:20:33 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:21:11 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:21:11 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:21:19 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:21:19 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:21:56 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:21:56 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:22:29 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:22:29 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:23:08 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:23:08 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:23:32 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:23:32 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:23:33 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:23:34 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:23:48 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:23:48 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:23:50 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:23:50 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:23:51 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:23:51 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:24:15 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:24:15 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:24:16 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:24:17 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:24:48 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:24:48 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:24:55 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:24:55 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:24:59 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:24:59 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:25:09 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:25:09 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:25:25 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:25:25 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:26:38 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:26:38 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:26:49 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:26:49 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:26:56 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:27:00 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:27:00 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:28:18 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:28:18 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:28:22 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:28:22 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:28:34 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:28:34 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:28:35 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:28:39 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:29:12 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:29:12 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:29:15 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:29:16 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:29:43 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:29:44 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:30:22 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:30:22 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:30:23 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:30:24 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:30:48 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:30:48 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:30:50 GMT-05:00 2018">Load Program</menu_button>
+<file_saved time="Thu May 17 20:30:51 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:30:54 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:30:54 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:30:55 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:30:55 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:31:14 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:31:14 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:31:15 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:31:16 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:31:27 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:31:27 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:31:28 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:31:29 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:31:37 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:31:37 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:31:38 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:31:38 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:31:38 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:31:38 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:31:39 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:31:40 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:32:09 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:32:09 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:32:10 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:32:11 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:33:38 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:33:38 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:33:49 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:33:50 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:33:50 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:33:50 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:33:51 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:33:51 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:33:52 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:33:52 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:33:52 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:33:54 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:33:54 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:33:54 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:37:38 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:37:38 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:37:44 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:37:44 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:37:44 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:37:44 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:38:25 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:38:25 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:38:34 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:38:34 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:39:05 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:39:05 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:39:06 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:39:07 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:39:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:25 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:26 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:27 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:27 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:28 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:29 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:29 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:29 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:29 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:29 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:29 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:29 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:29 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:29 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:29 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:29 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:29 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:30 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:30 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:30 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:30 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:30 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:30 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:30 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:30 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:30 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:30 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:30 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:30 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:31 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:31 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:31 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:31 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:32 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:32 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:32 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:32 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:32 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:33 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:33 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:33 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:34 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:34 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:34 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:35 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:35 GMT-05:00 2018">Undo</menu_button>
+<menu_button time="Thu May 17 20:39:36 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:39:36 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:39:50 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:39:50 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:39:51 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:39:52 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 20:40:32 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:40:32 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:40:41 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 20:40:41 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>
+<menu_button time="Thu May 17 20:40:43 GMT-05:00 2018">Load Program</menu_button>
+<command_run time="Thu May 17 20:40:44 GMT-05:00 2018">m = makeAnimation(d)></command_run>
+<menu_button time="Thu May 17 21:11:21 GMT-05:00 2018">Save Program</menu_button>
+<file_saved time="Thu May 17 21:11:21 GMT-05:00 2018">/Users/OnlyJumpAdministrator/Desktop/CSIS/animationProject.py</file_saved>
+</file_created>

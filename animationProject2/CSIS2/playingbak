@@ -1,0 +1,4 @@
+
+def test():
+  pic = makePicture(pickAFile())
+  print("The height of the picture is " + str(getHeight(pic)) + " pixels.")
